@@ -1,15 +1,21 @@
 {
   "name": "temporary-phone-number",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Create a temporary phone number on Textita.com",
 "keywords": [
   "disposable phone number",
   "temporary phone number",
+  "VOIP"
   "non-voip",
   "check",
   "web",
-  "api"
+  "sms",
+  "api",
+  "mobile"
 ],
+{
+  "homepage": "https://Texita.com"
+}
 "repository": {
   "type": "git",
   "url": "https://github.com/temporary-phone-number/temporary-phone-number.git"
