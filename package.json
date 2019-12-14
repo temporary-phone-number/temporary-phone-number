@@ -5,7 +5,7 @@
 "keywords": [
   "disposable phone number",
   "temporary phone number",
-  "VOIP"
+  "voip",
   "non-voip",
   "check",
   "web",
@@ -13,9 +13,8 @@
   "api",
   "mobile"
 ],
-{
-  "homepage": "https://Texita.com"
-}
+  "homepage": "https://Textita.com"
+,
 "repository": {
   "type": "git",
   "url": "https://github.com/temporary-phone-number/temporary-phone-number.git"
