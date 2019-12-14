@@ -1,0 +1,20 @@
+{
+  "name": "temporary-phone-number",
+  "version": "1.0.0",
+  "description": "Create a temporary phone number on Textita.com",
+"keywords": [
+  "disposable phone number",
+  "temporary phone number",
+  "non-voip",
+  "check",
+  "web",
+  "api"
+],
+"repository": "github:https://github.com/temporary-phone-number/temporary-phone-number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
