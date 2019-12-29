@@ -3,7 +3,5 @@
 
 Create a [Disposable Phone Number](http://textita.com) non-VOIP USA Mobile Phone Number
 on the Textita platform.
-
-
-
+ 
 
